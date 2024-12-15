@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/emrekaanb/rick-and-morty-app/static/css/main.f1d0ab70.css",
+    "main.js": "/emrekaanb/rick-and-morty-app/static/js/main.a9f4d334.js",
+    "static/js/488.06e5f218.chunk.js": "/emrekaanb/rick-and-morty-app/static/js/488.06e5f218.chunk.js",
+    "index.html": "/emrekaanb/rick-and-morty-app/index.html",
+    "main.f1d0ab70.css.map": "/emrekaanb/rick-and-morty-app/static/css/main.f1d0ab70.css.map",
+    "main.a9f4d334.js.map": "/emrekaanb/rick-and-morty-app/static/js/main.a9f4d334.js.map",
+    "488.06e5f218.chunk.js.map": "/emrekaanb/rick-and-morty-app/static/js/488.06e5f218.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1d0ab70.css",
+    "static/js/main.a9f4d334.js"
+  ]
+}
